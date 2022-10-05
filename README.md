@@ -3,7 +3,7 @@
 Analysis Platform is an open source web application to import, connect and visualize factory IoT data. It helps to collect, link and integrate data from multiple data sources.
 Visualizations include Digital Native QC7 Tools, which is designed especially suitable for data on manufacturing domain.
 Let's try data-driven process improvement by utilizing the data sleeping in the field.
-
+尝试使用分支进行提交，这是分支a
 <table border="0">
 <tr>
 <td><img src="histview2/config/image/FPP.png" alt="FPP" width="200"></td>
